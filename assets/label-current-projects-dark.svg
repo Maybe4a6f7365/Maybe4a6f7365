@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 22" width="200" height="22" role="img" aria-label="current projects">
+  <style>
+    .bar  { fill: #a371f7; }
+    .text { fill: #c9d1d9; font: 600 15px ui-monospace, "SFMono-Regular", Menlo, Consolas, monospace; letter-spacing: 2px; }
+  </style>
+  <rect class="bar" x="0" y="4" width="3" height="14" rx="1.5"/>
+  <text class="text" x="16" y="16">current projects</text>
+</svg>

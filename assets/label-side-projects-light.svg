@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 168 22" width="168" height="22" role="img" aria-label="side projects">
+  <style>
+    .bar  { fill: #8250df; }
+    .text { fill: #1f2328; font: 600 15px ui-monospace, "SFMono-Regular", Menlo, Consolas, monospace; letter-spacing: 2px; }
+  </style>
+  <rect class="bar" x="0" y="4" width="3" height="14" rx="1.5"/>
+  <text class="text" x="16" y="16">side projects</text>
+</svg>

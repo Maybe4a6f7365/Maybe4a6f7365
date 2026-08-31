@@ -1,0 +1,49 @@
+name: update readme
+
+on:
+  schedule:
+    - cron: "0 6 * * *"
+  push:
+    paths:
+      - "scripts/**"
+      - "README.md"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: setup node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: render blog section
+        run: node scripts/update-readme.mjs
+        env:
+          # Override the Medium feed by setting FEED_URL as a repo variable.
+          # Public URL, so Variables (not Secrets).
+          FEED_URL: ${{ vars.FEED_URL }}
+
+      # Without this the rendered output is discarded with the runner and the
+      # README never actually changes.
+      - name: commit
+        run: |
+          if git diff --quiet -- README.md; then
+            echo "no changes"
+            exit 0
+          fi
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "chore: refresh blog section"
+          git push

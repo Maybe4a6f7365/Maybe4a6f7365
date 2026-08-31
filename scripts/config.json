@@ -1,0 +1,15 @@
+{
+  "username": "Maybe4a6f7365",
+  "_feedUrl": "The FEED_URL repo variable overrides this if set.",
+  "feedUrl": "https://not4a6f7365.medium.com/feed",
+
+  "blog": {
+    "count": 1,
+    "showDate": true
+  },
+
+  "pinBlog": {
+    "title": "How to decrypt a \u201cZero-Knowledge\u201d Vault Without the Master Password",
+    "url": "https://not4a6f7365.medium.com/b746de6fddeb"
+  }
+}

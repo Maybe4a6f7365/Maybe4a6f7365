@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 264" width="900" height="264" role="img" aria-label="4a6f7365 decodes to Jose - Senior IT Security Penetration Tester, based in Germany">
+  <style>
+    .bg     { fill: #ffffff; }
+    .frame  { fill: none; stroke: #d0d7de; stroke-width: 1; }
+    .rule   { stroke: #d0d7de; stroke-width: 1; }
+    .path   { fill: #59636e; font: 400 11px ui-monospace, "SFMono-Regular", Menlo, Consolas, monospace; letter-spacing: 2px; }
+    .prompt { fill: #0969da; font: 500 14px ui-monospace, "SFMono-Regular", Menlo, Consolas, monospace; }
+    .cmd    { fill: #1f2328; font: 400 14px ui-monospace, "SFMono-Regular", Menlo, Consolas, monospace; }
+    .out    { fill: #8250df; font: 600 30px ui-monospace, "SFMono-Regular", Menlo, Consolas, monospace; letter-spacing: 2px; }
+    .title  { fill: #1f2328; font: 700 22px ui-monospace, "SFMono-Regular", Menlo, Consolas, monospace; letter-spacing: 1px; }
+    .sub    { fill: #59636e; font: 400 14px ui-monospace, "SFMono-Regular", Menlo, Consolas, monospace; letter-spacing: 1px; }
+  </style>
+
+  <rect class="bg" x="0" y="0" width="900" height="264" rx="10"/>
+  <rect class="frame" x="0.5" y="0.5" width="899" height="263" rx="10"/>
+
+  <text class="path" x="40" y="27">~/profile</text>
+  <line class="rule" x1="1" y1="44.5" x2="899" y2="44.5"/>
+
+  <g transform="translate(40,0)">
+    <text class="prompt" x="0" y="84">$</text>
+    <text class="cmd" x="22" y="84">echo -n "4a6f7365" | xxd -r -p</text>
+
+    <text class="out" x="0" y="128">Jos&#233;</text>
+
+    <text class="prompt" x="0" y="168">$</text>
+    <text class="cmd" x="22" y="168">cat title.md</text>
+
+    <text class="title" x="0" y="204">Senior IT Security Penetration Tester</text>
+    <text class="sub" x="0" y="228">based in Germany</text>
+  </g>
+</svg>
