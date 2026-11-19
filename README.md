@@ -24,7 +24,7 @@
 -->
 
 <!-- blog-posts:start -->
-- [How to decrypt a “Zero-Knowledge” Vault Without the Master Password](https://not4a6f7365.medium.com/b746de6fddeb)
+- [How to decrypt a “Zero-Knowledge” Vault Without the Master Password](https://not4a6f7365.medium.com/decrypting-a-zero-knowledge-vault-without-the-master-password-offsec-the-gauntlet-vaultfall-6e7a7af0d9b5)
 <!-- blog-posts:end -->
 
 <h3>
