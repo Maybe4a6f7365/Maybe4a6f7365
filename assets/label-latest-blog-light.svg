@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 145 22" width="145" height="22" role="img" aria-label="latest blog">
-  <style>
-    .bar  { fill: #8250df; }
-    .text { fill: #1f2328; font: 600 15px ui-monospace, "SFMono-Regular", Menlo, Consolas, monospace; letter-spacing: 2px; }
+  <style>@font-face{font-family:JBM;font-weight:700;src:url(data:font/woff2;base64,d09GMgABAAAAAASYAA8AAAAACLgAAAQ/AAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGhwbIBwqBmA/U1RBVEwAZBEICoZIhUQBNgIkAxYLFgAEIAWEJgcgGxcHUZQwzhUIfiaY58+Uhg1hIwNNvW0ZBmOeL+LO4l48/Lf25X3V/efMVi0AslpW/2+4x4VYxagxMkQuUXFxC1Nr6YaQnwjuHpgTX5YAbFxc6jq+FbIQutkFi8YYrEEY++SL3xNgXdv/AOllf7p3+q6xKIE5hEIc891v4hWFY4GPbVmCga3pY2JcYGWJBqTLIHcvJF3ksnQ3An0BSRJCqHQLgWys8WLr9r1H9arhtYBANt1MCett+O6lB/fNwsTqOp1MvbRIjTsJ2JOfHOedx0Yg0UfCPszcvRnwLRM9qF68EoK/FYcISNPTrzBRSwjdEoZKmCo9vnHzQeDWg0t3Y4BQGylBdKVepJNA+g8qIcVAECChwlCVwFC1g4CBBqow0WV2Tj5Bsddioks1EH2t+9bXvvKZT3xYYDYhXmsAWXbcUAwkRhCXAFCDSpJc6LsM6qoaV0b0H50n9B8wuP+8IaXVr77cr3X1Tt9jjUbHSonOm5t7ZP7JSs8v5chz2nK8xyJy07SfS43GrCy3iqNlZgemQPiinaOjiyQbfyx2D+WQk/XV3qXnGlO+lzNc48SxKD2TnphGnhv1DJmaXY6XuqbxdM+8fg+qcvSr270UvFNblpEeXz4rJc52xvLjukoH738sf15zbrJ2WXZsCIdI5H7NGIGSAreaU9sXp8fcPLoxnh3iyf8PcIfgb98xWCuQetXWy5NdwtGeXJTpFab1ZnvMpoqnoUkcUcteMyJpyAN6c/v35o4A6PoYYgH916I7c5O/31FZ+vVL6SK5NQzfguwGBe+pGnGFUJ+eaC6uLjTgsI/lRGIg6hWVOAriLKaj8PJW+Q4ug94neLNDrIxigrGMNaBQeezUnzZ3Proe7t/d3mtzLLygi3h0hSUMeyFGFfRKLxbaXfltuR+CJsinnAvognN6ikZACDQooSQHRxLk13fho93l9eUnYXDQy3IgMBCtRaOOAsZi25mUegn2qO+85nO1kPbzsziyhUiA6V6ycQfBWsnP/ds+PL5eWSo9ovcZB9VcntCpsG8b/NIORn7r5cb2QWB5cV7J6oOHDAK+xKfxAJdYoxaO3grfelB4cB2+HkVc3A6jAxBIy+uv1rZ2GrD2/+6O6l/w2/nuc/gnPg/GvBakBelXQpcEgo8dTSchiVldhAQGcJwOxj4sHAu2oztAIJunGq4EW1c0VKLug16UKcNYvcqk28/KynJ/K2vTY7iyZXSsVXSZGseNgr7xrK6LxWJAvfDt/QbK8T5bBIWkRbg5ucSsWmxhmk10tIbYcXfIYmiwNswtIKq9T1BAkB0UCdMedtZhkjaJU3TVcZEOdObwb0BMSBTOAgvc4BbjEmdx7Iogv5PJSnL/9O3vLQ5paW0fm3PzcZFKr7EbLSxv4PBR5wq27YeJygFC1A3UrU5Z+VSg9h89ctMM5uPWVjJBfvAzO4DXc/6YAAAA) format('woff2')}
+    .bar{fill:#a84231}
+    .text{fill:#1b365d;font:700 15px JBM, "JetBrains Mono", ui-monospace, "SFMono-Regular", "SF Mono", Menlo, Consolas, "Liberation Mono", "DejaVu Sans Mono", monospace;letter-spacing:2px}
   </style>
-  <rect class="bar" x="0" y="4" width="3" height="14" rx="1.5"/>
+  <rect class="bar" x="0" y="4" width="3" height="14"/>
   <text class="text" x="16" y="16">latest blog</text>
 </svg>

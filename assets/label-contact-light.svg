@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 22" width="100" height="22" role="img" aria-label="contact">
-  <style>
-    .bar  { fill: #8250df; }
-    .text { fill: #1f2328; font: 600 15px ui-monospace, "SFMono-Regular", Menlo, Consolas, monospace; letter-spacing: 2px; }
+  <style>@font-face{font-family:JBM;font-weight:700;src:url(data:font/woff2;base64,d09GMgABAAAAAAOYAA8AAAAAByAAAAM/AAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGhYbIBwqBmA/U1RBVEwATBEICoNcgxgBNgIkAw4LDgAEIAWEJgcgG8UFURQRhfmRGIN76BIHoR2U0krUtkuWUYvWPuBRRB/7oXvvQwBRqEw0lIWJKiiWZKMjXF2UKBpH4+sqVODn7az3Z8KZhRmsEBArRT9rVmcWNYvSLK+67ra9/C8DGLipdq7YxysW4nn26IEmeD5QgoEXFVAg4dkIZxHOMbtZ+a+UcIdt+QDBKKBEdCIYtqoIOruvsQBHC3cAwbB9NQjCtKR3L/Ac5NBA62056ouOuiwH8MRZzlO8DIBiiKrj9R6fALjyAm6ub9/TXKcBCNR+fcUmpohBhVkEdhGfXk5ghNfvgzNoAqK1iID0xDPqHNR/NKKSAhBQaDCLFMxiOAaGDSrlhWEh+A4BOKfpy1y55YIzBQCROyZAD0YxjM/4CUALGiWipCXJTyFdlJWWlE4zExlDicyR6QTr8Ue09Ymm0dZL6vh5DvXpE33yAWoYUfWb720nnxCijp/B5ovg8cePCG3hiZW6yaZeg4s3s6+K6ffvaSYN9PFWcUpuvZVWFWlA4IKY2U7eIQQHoFqZePwRkRSi0RlRtUnT4Pp6/6u3taG7/399VwP85VqDTo1x2j581FzT01hr1i1ztEtu/ygescWXAhldvU55qVcoEtaLD6q+7VZroIkrmxB0BkTH4k6/pwVHrkwR7rW6uRbeRf4J/xKvZa5ujXCvTIG2anmyrECiU0uNgWn35JqHJ2xukgscUM+RjQk6AqJDkdUkkclHI3LwCBgNZnipLz8UjvJa48JDwTxM6B12bcqFyIVr69feRd6lCPgXIwAQoI4Y5keVp/7knn8ckvwD+Pv24VUR/KvbzlR/d1pZ9VX0CoR1DOocJohGIPqYlINLBxktmXoIvUMkCN0acamRlgt8IeBj1TO+DPrFN4785lv7yeI7y+nheruxCRAYzXLEgkYhSgbQ/X0pqJx1KiRsSdSkcROwEjwtJilhSYGj/4HKKEwkKmjSnJgSWiFzQkoYRIVMGTUMKzEoDpsQEhVTosYEDAuL6dKs2bhJ2IS4IU2GhcxqHpN/nMHDa6/1e0VCZozgacLTqlU3FZHull5jWZkHOzTQplHAmA7pgDus/BDQ7nz6c5WwoBmThpmEzAqaQwJ3460RAAA=) format('woff2')}
+    .bar{fill:#a84231}
+    .text{fill:#1b365d;font:700 15px JBM, "JetBrains Mono", ui-monospace, "SFMono-Regular", "SF Mono", Menlo, Consolas, "Liberation Mono", "DejaVu Sans Mono", monospace;letter-spacing:2px}
   </style>
-  <rect class="bar" x="0" y="4" width="3" height="14" rx="1.5"/>
+  <rect class="bar" x="0" y="4" width="3" height="14"/>
   <text class="text" x="16" y="16">contact</text>
 </svg>

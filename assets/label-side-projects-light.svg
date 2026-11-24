@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 168 22" width="168" height="22" role="img" aria-label="side projects">
-  <style>
-    .bar  { fill: #8250df; }
-    .text { fill: #1f2328; font: 600 15px ui-monospace, "SFMono-Regular", Menlo, Consolas, monospace; letter-spacing: 2px; }
+  <style>@font-face{font-family:JBM;font-weight:700;src:url(data:font/woff2;base64,d09GMgABAAAAAATMAA8AAAAACYgAAARyAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGiobIBwqBmA/U1RBVEwAWBEICodohjEBNgIkAzwLIAAEIAWEJgcgG6wHEcU8IfhZkJOhvWfRri4MbSj1Y1xc/RtiKSIWS5liWnY8/P+a1X2/KjnpqtAAo0YClR7etFsHJPzYNnKXjwdy6/ZMzf9Y83OHmZy7gMeJVbG6R5qFPNJEQ7Fstk06Wl3GJYOUPfhPi/8f7mf63yJFssWGGBVUIFEJNBzgbFiJcVH4wQ9seKB6CrU7Mi/h100CTUAITeEGUWx8jsJkU8WmLbsOacihqgCMOdd8ab72rfOP7hgPg8t5OpaGUSP1yzHsbO+OM1bGOhIDCsVwcMcGfIvpHmX/fyThnx+7CEhz0y9gupoQGhJGS5gtPb167VHg+qPzt6Ij5MZLEPU0DOkY6V+QCSm6IEBChtEygdFym9DUkOSmu+yGex5VmO6i6+56UFX/fE31WXVbgAYgVxei0gEdMBUjiRVED4zHaJAJSapEJSRJCIHIs2zquPbEomiPbI9vj10yqlnWWvmFVu3Szeb5fv4QMfh/LIficPH1LPqb3imH1jT5jof7k1TiqIXlkSjzIopFPR4ZesO2u6Rprfj3NNchj0n2k5OdR8uEZMmtVDocpVZ3zsp7LJhypNURGYdrpXL+RdTQ4qKfsaA47CQ1lzB+na0YN6cjaFPlMy0TPAZtraZb/STNjXk+b0XRr0t0jTpCj0VLRrIiygrxo0XqSelm32LQy6GuJzpseH//vRm+S6T+3yHsgv0Bjg+FtzHOmXhrh9KiUQxAjOXtCAxxE3mBvIWARbbLEGMxAP50KVxx2w27M65kSUXMF3PQxufl9wX/7AumfcFEEMZDniN5MJgWdY7Sgt0BjheNs9HP6Q1lR5jD9nSi71RuEArYbVKw2McpqEZY83gTBlPGj30Pux68YT6KLzx/mgDyD6lrCDX84lPKAHFlkx6w0+B4UDgb45TBlCzE4boZmX6GuJ0hxMjuU7QbAU+jT1EZIPpwsr0spTNuu0HbtciRuHN7XWPnDMEOdKFQByxzM/4Fqb76NRK9O2zfbC6g/TA4H60D4w3q6Q0UZ6E89WPu7v7VtLnafWaXuVfLF4i9Kve6KSyHssprz1bWdyLzs9NqTpe9zyQSykK6APDt1WnFgzfiN+5V7l3FrwZRyJtxsDO4frm0dLneWgnSXG2oa4/sw3WgehJ0wy4gLc2GKSpRvMtGakFam3+d83updYD0XwOa/Q6/vn14F+C37cYY2FlCTftIvQIEf4czHYNIH19O0aIwdQCTgQ1yarwIr1AHEIMFmLDzlwB+AYGOJaAmghyh7b9W6stEPoBh+thhshfspOEndmatr+zc3Bhn10wMEqtudmjEgma8GKhv54rOOP7t+7q641MbRcXkJfh5+aQsQoDVoUWqEXAnC7ilMGB+O7+IJL9YVET0PTIJUQFuTimL6NJSfKISC8yb26sq/pgkgoOwlx98tjSHfU5RYQcOaztmOH7yrcuZGDV/iAvCfikcHJEAQ3e2sX1vcRfPNsCgUYKQVAMDi0d2fxRo9V+fzJdiF2LyTgpRYfanQYHKDQEIBQAAAA==) format('woff2')}
+    .bar{fill:#a84231}
+    .text{fill:#1b365d;font:700 15px JBM, "JetBrains Mono", ui-monospace, "SFMono-Regular", "SF Mono", Menlo, Consolas, "Liberation Mono", "DejaVu Sans Mono", monospace;letter-spacing:2px}
   </style>
-  <rect class="bar" x="0" y="4" width="3" height="14" rx="1.5"/>
+  <rect class="bar" x="0" y="4" width="3" height="14"/>
   <text class="text" x="16" y="16">side projects</text>
 </svg>

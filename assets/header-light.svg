@@ -1,33 +1,74 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 264" width="900" height="264" role="img" aria-label="4a6f7365 decodes to Jose - Senior IT Security Penetration Tester, based in Germany">
-  <style>
-    .bg     { fill: #ffffff; }
-    .frame  { fill: none; stroke: #d0d7de; stroke-width: 1; }
-    .rule   { stroke: #d0d7de; stroke-width: 1; }
-    .path   { fill: #59636e; font: 400 11px ui-monospace, "SFMono-Regular", Menlo, Consolas, monospace; letter-spacing: 2px; }
-    .prompt { fill: #0969da; font: 500 14px ui-monospace, "SFMono-Regular", Menlo, Consolas, monospace; }
-    .cmd    { fill: #1f2328; font: 400 14px ui-monospace, "SFMono-Regular", Menlo, Consolas, monospace; }
-    .out    { fill: #8250df; font: 600 30px ui-monospace, "SFMono-Regular", Menlo, Consolas, monospace; letter-spacing: 2px; }
-    .title  { fill: #1f2328; font: 700 22px ui-monospace, "SFMono-Regular", Menlo, Consolas, monospace; letter-spacing: 1px; }
-    .sub    { fill: #59636e; font: 400 14px ui-monospace, "SFMono-Regular", Menlo, Consolas, monospace; letter-spacing: 1px; }
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 300" width="640" height="300" role="img" aria-label="4a6f7365 decodes to Jose - Senior IT Security Penetration Tester, based in Germany">
+  <title>4a6f7365 decodes to Jose - Senior IT Security Penetration Tester, based in Germany</title>
+  <style>@font-face{font-family:JBM;font-weight:400;src:url(data:font/woff2;base64,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) format('woff2')}@font-face{font-family:JBM;font-weight:700;src:url(data:font/woff2;base64,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) format('woff2')}@font-face{font-family:JBM;font-weight:800;src:url(data:font/woff2;base64,d09GMgABAAAAAAOsAA8AAAAAB2AAAANSAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGhYbIBwqBmA/U1RBVEwAVBEICoNwgyUBNgIkAxwLEAAEIAWEQAcgGwIGKB6D426JoYlYDDH/vA3NlTye///9/jfXPueLIeqJJJoeo0OCbNGqWaIVk5AZNEYXa7Q//vWhvPw3SSGk/VAqI1px9hM4ylfrBt+E+P/7W2nHhWF5TzwM8Tgx/Rb3rcOy6wBJMIEo3RtsNVrQcAF3FkgWGBdiW2LkMxKiZLuJyF7bDgSzgBIxJoJpG8Qg5yrr2+Gmw/AfEEzbZSwGLfO5LlATwihpu1c3y3GmnjHdgPPbei4hNcVAMcW0zR80OgP4bOR9m194QJsPDwK1q55hC2cRkworMNiBua3WUAKu3BAMxBfRrcFAJlgO6h9tC2ii4gcIKDSswApWcHIKzJpUuhGFmd37Ae9lh1c7NqyNAAEAkcFiMAEWYRovwGfMYhY0UYMS6SwbsM4jYFFC93T2dhK9nWW9l7D0EZmZfdfz+X3SPIi30+wHvq5h5jx+rLGHD2EWOep8pOeDr31kzjWPZ3fgAtSfyg86l132L93CF+DORZVmZp/19M83dC6z8qhHSM8A0+J7UP9MR0cyOhL0/kSPy12e7b3P9j8bSOHziv5PyOXhPW1fOF23MbEzMbE9kR5Yngfdw6ngp2oMmbli6dzSXNGQWVOjO10lt8SkB6WOOCSv86+a2eVSGZ72OiXFNW3x9dgf4vSEnqh1hND9oDn8qwlz+Zf8hM/83AlfsGKqXBmfXZe2Mex4PD/uRGR4L/2umh2oqW82dulGK5O6ajcGabjRo8LCQ98GlbupveSGhnZ7jxUn52uW7aHLULswGDe+iR9wbPhWUc0fQR3t6pMPVw/55v+fZNl38O3Lwa3A931zgxE0fK3RARHGcyD81KAuEmHh1AzCoonqRq8YU53/TqngJYIJB7H2YBNOK8GMZ2jS3cF7cCCOuABlkT/QnPKr3SGMWZdcZdyhtGcIzGaugCuWZSX4Yja7H/PjkeM4y8xiChstNQ2Kkyp5QZx2n1T2WEtBlbIRaJnYcRqYmZhxmtmY6SgkFKeEA6VhZmPHGUuDoizsciVJoqZlBzuIEknMjJJUFV+45VPGvQ1XmIyCb7WUmYGslULNwUBgkypRqhQp8tQqlVc4lJBJdmIbOy1scaPONKLL/YAi8qFqUAIDLUkrMyOBCQsMilQQBgAAAA==) format('woff2')}
+    text{font-family:JBM, "JetBrains Mono", ui-monospace, "SFMono-Regular", "SF Mono", Menlo, Consolas, "Liberation Mono", "DejaVu Sans Mono", monospace;font-weight:400}
+    .bg{fill:#f7f9fb;stroke:#d5dce4}
+    .rule{stroke:#d5dce4}
+    .meta{fill:#6b7787;font-size:10.5px;letter-spacing:1.6px}
+    .pr{fill:#a84231;font-weight:700;font-size:16px}
+    .cmd{fill:#1e2530;font-size:16px}
+    .cur{fill:#1e2530}
+    .nm{fill:#1b365d;font-weight:800;font-size:64px}
+    .rl{animation:in .5s cubic-bezier(.2,.8,.2,1) both}
+    .e0{opacity:0;animation:vis 4.25s steps(1,end) 0s forwards}
+    .e1{animation:show .01s linear 4.25s both}
+    .ac{fill:#a84231;font-weight:800;font-size:64px}
+    .acw{animation:acc .45s cubic-bezier(.2,.8,.2,1) 3.8s both}
+    .hx{fill:#6b7787;font-weight:700;font-size:30px;transform:translateY(-70px);animation:out .5s cubic-bezier(.2,.8,.2,1) both}
+    .hin{animation:show .25s linear 2.00s both}
+    .an{fill:#6b7787;font-size:10px;animation:show .25s linear both}
+    .an.x{fill:#a84231}
+    .dp{fill:#9aa6b5;font-size:10px}
+    .dp.a{fill:#6b7787}
+    .dp .k{fill:#1b365d}
+    .dl{animation:show .15s linear both}
+    .ttl{fill:#1b365d;font-weight:700;font-size:22px;animation:rise .4s cubic-bezier(.2,.8,.2,1) 5.25s both}
+    .sub{fill:#6b7787;font-size:14px;letter-spacing:.6px;animation:rise .4s cubic-bezier(.2,.8,.2,1) 5.4s both}
+    .g{animation:on .01s linear both}
+    .k1{opacity:0;animation:t1 1.5s steps(30,end) .3s both,vis 1.95s steps(1,end) 0s forwards}
+    .k2{opacity:0;animation:t2 .72s steps(12,end) 4.35s both,vis 1s steps(1,end) 4.2s forwards}
+    .p2{animation:show .01s linear 4.2s both}
+    .p3{animation:show .01s linear 5.8s both}
+    .k3{fill:#a84231;animation:blink 1.2s steps(1,end) 5.8s infinite}
+    @keyframes t1{from{transform:translateX(0)}to{transform:translateX(288.0px)}}
+    @keyframes t2{from{transform:translateX(0)}to{transform:translateX(115.2px)}}
+    @keyframes on{from{fill-opacity:0}to{fill-opacity:1}}
+    @keyframes vis{from{opacity:1}to{opacity:0}}
+    @keyframes show{from{opacity:0}to{opacity:1}}
+    @keyframes rise{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:translateY(0)}}
+    @keyframes blink{0%{opacity:1}50%,100%{opacity:0}}
+    @keyframes in{from{transform:translateY(70px)}to{transform:translateY(0)}}
+    @keyframes out{from{transform:translateY(0)}to{transform:translateY(-70px)}}
+    @keyframes acc{from{opacity:0;transform:translateY(-7px)}to{opacity:1;transform:translateY(0)}}
+    @media (prefers-reduced-motion:reduce){*{animation:none!important}}
   </style>
+  <defs><clipPath id="s0"><rect x="29" y="86" width="44" height="70"/></clipPath><clipPath id="s1"><rect x="73" y="86" width="44" height="70"/></clipPath><clipPath id="s2"><rect x="117" y="86" width="44" height="70"/></clipPath><clipPath id="s3"><rect x="161" y="82" width="44" height="74"/></clipPath><clipPath id="az"><rect x="161" y="82" width="44" height="24.5"/></clipPath></defs>
 
-  <rect class="bg" x="0" y="0" width="900" height="264" rx="10"/>
-  <rect class="frame" x="0.5" y="0.5" width="899" height="263" rx="10"/>
+  <rect class="bg" x=".5" y=".5" width="639" height="299" rx="8"/>
+  <text class="meta" x="32" y="24">~/profile</text><text class="meta" x="608" y="24" text-anchor="end">utf-8</text>
+  <line class="rule" x1="1" y1="38.5" x2="639" y2="38.5"/>
 
-  <text class="path" x="40" y="27">~/profile</text>
-  <line class="rule" x1="1" y1="44.5" x2="899" y2="44.5"/>
+  <text class="pr" x="32" y="74">$</text>
+  <text class="cmd" x="52" y="74" textLength="288.0" lengthAdjust="spacing" xml:space="preserve"><tspan class="g" style="animation-delay:0.34s">e</tspan><tspan class="g" style="animation-delay:0.39s">c</tspan><tspan class="g" style="animation-delay:0.44s">h</tspan><tspan class="g" style="animation-delay:0.49s">o </tspan><tspan class="g" style="animation-delay:0.59s">-</tspan><tspan class="g" style="animation-delay:0.64s">n </tspan><tspan class="g" style="animation-delay:0.74s">"</tspan><tspan class="g" style="animation-delay:0.79s">4</tspan><tspan class="g" style="animation-delay:0.84s">a</tspan><tspan class="g" style="animation-delay:0.89s">6</tspan><tspan class="g" style="animation-delay:0.94s">f</tspan><tspan class="g" style="animation-delay:0.99s">7</tspan><tspan class="g" style="animation-delay:1.04s">3</tspan><tspan class="g" style="animation-delay:1.09s">6</tspan><tspan class="g" style="animation-delay:1.14s">5</tspan><tspan class="g" style="animation-delay:1.19s">" </tspan><tspan class="g" style="animation-delay:1.29s">| </tspan><tspan class="g" style="animation-delay:1.39s">x</tspan><tspan class="g" style="animation-delay:1.44s">x</tspan><tspan class="g" style="animation-delay:1.49s">d </tspan><tspan class="g" style="animation-delay:1.59s">-</tspan><tspan class="g" style="animation-delay:1.64s">r </tspan><tspan class="g" style="animation-delay:1.74s">-</tspan><tspan class="g" style="animation-delay:1.79s">p</tspan></text>
+  <rect class="cur k1" x="52" y="61" width="9" height="17"/>
 
-  <g transform="translate(40,0)">
-    <text class="prompt" x="0" y="84">$</text>
-    <text class="cmd" x="22" y="84">echo -n "4a6f7365" | xxd -r -p</text>
+  <g clip-path="url(#s0)"><g class="hin"><text class="hx" x="51" y="135" text-anchor="middle" style="animation-delay:2.5s">4a</text></g><text class="nm rl" x="51" y="144" text-anchor="middle" style="animation-delay:2.5s">J</text></g><text class="an" x="51" y="164" text-anchor="middle" style="animation-delay:2.75s">4a</text><g clip-path="url(#s1)"><g class="hin"><text class="hx" x="95" y="135" text-anchor="middle" style="animation-delay:2.72s">6f</text></g><text class="nm rl" x="95" y="144" text-anchor="middle" style="animation-delay:2.72s">o</text></g><text class="an" x="95" y="164" text-anchor="middle" style="animation-delay:2.97s">6f</text><g clip-path="url(#s2)"><g class="hin"><text class="hx" x="139" y="135" text-anchor="middle" style="animation-delay:2.94s">73</text></g><text class="nm rl" x="139" y="144" text-anchor="middle" style="animation-delay:2.94s">s</text></g><text class="an" x="139" y="164" text-anchor="middle" style="animation-delay:3.19s">73</text><g clip-path="url(#s3)"><g class="hin"><text class="hx" x="183" y="135" text-anchor="middle" style="animation-delay:3.16s">65</text></g><g class="rl" style="animation-delay:3.16s"><text class="nm e0" x="183" y="144" text-anchor="middle">e</text><text class="nm e1" x="183" y="144" text-anchor="middle">é</text></g></g><text class="an" x="183" y="164" text-anchor="middle" style="animation-delay:3.41s">65</text>
+  <g class="acw" clip-path="url(#az)"><text class="ac" x="183" y="144" text-anchor="middle">é</text></g>
+  <text class="an x" x="193" y="164" style="animation-delay:4.00s">cc 81</text>
+  <g class="dl" style="animation-delay:1.95s"><text class="dp" x="266" y="104.0" textLength="234" lengthAdjust="spacing"><tspan class="k">4a6f 7365</tspan> 2c20 7065 6e74 6573 7465 722e</text><text class="dp a" x="512" y="104.0" textLength="96" lengthAdjust="spacing"><tspan class="k">Jose</tspan>, pentester.</text></g><g class="dl" style="animation-delay:2.01s"><text class="dp" x="266" y="117.3" textLength="234" lengthAdjust="spacing">6261 7365 6420 696e 2047 6572 6d61 6e79</text><text class="dp a" x="512" y="117.3" textLength="96" lengthAdjust="spacing">based in Germany</text></g><g class="dl" style="animation-delay:2.07s"><text class="dp" x="266" y="130.7" textLength="234" lengthAdjust="spacing">6875 6e74 7320 6275 6773 2c20 746f 6f2e</text><text class="dp a" x="512" y="130.7" textLength="96" lengthAdjust="spacing">hunts bugs, too.</text></g><g class="dl" style="animation-delay:2.13s"><text class="dp" x="266" y="144.0" textLength="234" lengthAdjust="spacing">7769 7468 2070 6572 6d69 7373 696f 6e2e</text><text class="dp a" x="512" y="144.0" textLength="96" lengthAdjust="spacing">with permission.</text></g>
 
-    <text class="out" x="0" y="128">Jos&#233;</text>
+  <g class="p2">
+    <text class="pr" x="32" y="204">$</text>
+    <text class="cmd" x="52" y="204" textLength="115.2" lengthAdjust="spacing" xml:space="preserve"><tspan class="g" style="animation-delay:4.40s">c</tspan><tspan class="g" style="animation-delay:4.46s">a</tspan><tspan class="g" style="animation-delay:4.52s">t </tspan><tspan class="g" style="animation-delay:4.64s">t</tspan><tspan class="g" style="animation-delay:4.70s">i</tspan><tspan class="g" style="animation-delay:4.76s">t</tspan><tspan class="g" style="animation-delay:4.82s">l</tspan><tspan class="g" style="animation-delay:4.88s">e</tspan><tspan class="g" style="animation-delay:4.94s">.</tspan><tspan class="g" style="animation-delay:5.00s">m</tspan><tspan class="g" style="animation-delay:5.06s">d</tspan></text>
+  </g>
+  <rect class="cur k2" x="52" y="191" width="9" height="17"/>
 
-    <text class="prompt" x="0" y="168">$</text>
-    <text class="cmd" x="22" y="168">cat title.md</text>
+  <text class="ttl" x="32" y="236" textLength="486" lengthAdjust="spacing">Senior IT Security Penetration Tester</text>
+  <text class="sub" x="32" y="258">based in Germany</text>
 
-    <text class="title" x="0" y="204">Senior IT Security Penetration Tester</text>
-    <text class="sub" x="0" y="228">based in Germany</text>
+  <g class="p3">
+    <text class="pr" x="32" y="285">$</text>
+    <rect class="cur k3" x="52" y="272" width="9" height="17"/>
   </g>
 </svg>

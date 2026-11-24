@@ -5,9 +5,16 @@
   </picture>
 </p>
 
-<p align="center">
-  <sub>Senior IT Security Penetration Tester, based in Germany</sub>
-</p>
+I break into systems for a living (with permission) and build the tooling around it.
+
+<h3>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/label-latest-projects-dark.svg">
+    <img src="assets/label-latest-projects-light.svg" alt="latest projects" height="22">
+  </picture>
+</h3>
+
+- [vibe-check](https://github.com/Maybe4a6f7365/vibe-check): security checklist for apps you built with AI. four questions, do-it-yourself tests, OWASP top 10. german. [pdf](https://github.com/Maybe4a6f7365/vibe-check/blob/main/vibecoding-checkliste.pdf)
 
 <h3>
   <picture>
@@ -55,11 +62,22 @@
 
 <h3>
   <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/label-tech-stack-dark.svg">
+    <img src="assets/label-tech-stack-light.svg" alt="tech stack" height="22">
+  </picture>
+</h3>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg">
+  <img src="assets/stack-light.svg" alt="tech stack: python, bash, typescript, java, c, powershell, terraform, docker, github actions, LLM agents" width="500">
+</picture>
+
+<h3>
+  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/label-contact-dark.svg">
     <img src="assets/label-contact-light.svg" alt="contact" height="22">
   </picture>
 </h3>
 
-not4a6f7365@wearehackerone.com
-
-[linkedin](https://www.linkedin.com/in/jose-m-matas-not4a6f7365)
+not4a6f7365@wearehackerone.com<br>
+[linkedin](https://www.linkedin.com/in/jose-m-matas-not4a6f7365) · [medium](https://not4a6f7365.medium.com)

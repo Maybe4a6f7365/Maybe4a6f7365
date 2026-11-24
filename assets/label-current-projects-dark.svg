@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 22" width="200" height="22" role="img" aria-label="current projects">
-  <style>
-    .bar  { fill: #a371f7; }
-    .text { fill: #c9d1d9; font: 600 15px ui-monospace, "SFMono-Regular", Menlo, Consolas, monospace; letter-spacing: 2px; }
+  <style>@font-face{font-family:JBM;font-weight:700;src:url(data:font/woff2;base64,d09GMgABAAAAAATYAA8AAAAACVgAAASBAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGiIbIBwqBmA/U1RBVEwAXBEICodAhgoBNgIkAzgLHgAEIAWEJgcgG30Ho6Jq8UbwzwSbyMQXDsZijLAIhQ9mK3OxXO4gtBx8PBiXYbQIfzBsz/p5xH+/H7rnvh9ALNuyAnZVQJokWZAxKkZFxagqGl9XVxf4eZ3r/QRNaBH1CCrBtAIe2tQ0xSXdMJvufGRl2c51u2G8/gdgZ2rbpFVxGZeMUvbgP+1/LlXvZ23AucWCONbQbLtoXmxtjlgCtAelLUhxYcEOS1StgtuuBj5MIiXwzQTDgNJEEz16Rb8hEQxalgTd4bqHIUAHp/8DgkG7cmDYdPIPvGiDGBic7kqNHeqh9uopgMfNzXkNVBoAigGFfux8dAvAvnWednQCQiwF6B9bu/Ue63xF9CtMw7AN+6I3iAhvP/IWNAbRmYdBerF76ilA/UMTlZAzQLnbmilcmuV8PABG7XW91zoNgYmD51S6OTYuLNytGxfOnBZFMjLzHxsDo2AZmAA5D/IFwDCGQRN1qohSIiJIx8TxpDhCHhUmj5FHFYaHBZG+Mp8Zma/WPMxL+Rqhjf+G9IaCuJ2EtMH6Ib0rWV4CSr8CQQB1xKfH0Madk1ApIg8/hBNI5rMOgvQlgazYmJiBIvDRnWo9Qw6+VM61LZVaP4qIy7FABjc5US6hgDEYRxIbRgm0BzdJLpREOdqwMmW7E6Hme0ldVoKQykJlFRHwFYRMyiMvJhEJJBDYupDA94VI7Ibu14KGWTK04fzJDutKbfT9g/cTpQXV9f/zqwqgiDkDUzndJDVXTlGDvW3JhI2t5NlKqFPaS59RJba8FWysNwAFOFrPVkw3So01Q0uKa9W1fjTNUHbVYnlejXlJxi0Oh7ckVY6Xla1URn5HBu7EI0pR6v0kjmLaObcOerIWjWkJLb1drQPT5jHjyjjFFhe1MWrIJ07HVEw37TcxA0tybQKjNh4gQsBCDTywzwpUqYfdZ2ah++79ojHh/r/UM4c0zumThoLJAbqixTzXfJ+Ib15qI0tUjMSoSorVtESrYTJr1pjcN1L54b0jgpXP2UpmjSWlHawaoqh+Ipvhkldi/2UVFL1ITlx/0Bw4EaTq6OzRDwtZ49YBvGUl83l6Vr4tKSFOwQXysvHurn6L2gSGPrWqJ+TEeXK1evXC+SKEoU+dkM/GOVFQrijYipLidlaxohQWxDfI/7Z7sLFxsNt4b7XLB71GXkAI4Mnp8quFQajL3Z8r4ftvxm7+78fxv/Dnx6NL+Ht+c1r+HHpdQHorQPgWAvUUopx8HwMpnKOAc5R5uSpxEHq8XBMmoRnyoes3AX4LRl2CW4Stb+k+N2RPky4QOKRLFMvuRaXfT1Fz2VdRZzdRoh6LqRH22o5SBYHhLLb4rRdEwcPE3beFIHLoNjuHBS5GegaiFJSSajLF8AAIzs6YFDXBsjwjG7dsDzsb+1v6udiZCDREKRp5iAzsXDPcOesnRY7OBVWKFdMzAjH2mFFEw86q2G7Vh2z79557OmdTVdZCi1JULFWqep6zKda4sq9wdj33tsGgNICI2wy0pOxZ/16gsr19aQcRz8J0NQbZWfGY4cCpgAKiAA==) format('woff2')}
+    .bar{fill:#d76c53}
+    .text{fill:#c9d1d9;font:700 15px JBM, "JetBrains Mono", ui-monospace, "SFMono-Regular", "SF Mono", Menlo, Consolas, "Liberation Mono", "DejaVu Sans Mono", monospace;letter-spacing:2px}
   </style>
-  <rect class="bar" x="0" y="4" width="3" height="14" rx="1.5"/>
+  <rect class="bar" x="0" y="4" width="3" height="14"/>
   <text class="text" x="16" y="16">current projects</text>
 </svg>
